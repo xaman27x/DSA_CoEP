@@ -3,14 +3,14 @@
 ---
 
 #### **Linear Search:**
-- **Best Case:** \(O(1)\)
-- **Worst Case:** \(O(n)\)
-- **Average Case:** \(O(n)\)
+- **Best Case:** O(1)
+- **Worst Case:** O(n)
+- **Average Case:** O(n)
 
 #### **Binary Search:**
-- **Best Case:** \(O(1)\)
-- **Worst Case:** \(O(\log n)\)
-- **Average Case:** \(O(\log n)\)
+- **Best Case:** O(1)
+- **Worst Case:** O(logn)
+- **Average Case:** O(logn)
 
 ---
 
